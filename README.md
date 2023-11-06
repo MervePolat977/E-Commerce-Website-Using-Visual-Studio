@@ -8,7 +8,8 @@
 
   
 ## Appearance of the Website
-  ![Uploading kk2.PNG…]()
+  ![kk2](https://github.com/MervePolat977/E-Commerce-Website-Using-Visual-Studio/assets/75504698/8a49678b-91b1-4d02-a49c-87bca52ff3fd)
+
 
 
   ![kk3](https://github.com/MervePolat977/E-Commerce-Website-Using-Visual-Studio/assets/75504698/7a02d38c-793c-47b9-80cb-fc980570642f)
